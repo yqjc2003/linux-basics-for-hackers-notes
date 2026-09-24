@@ -4,6 +4,8 @@ A structured set of study notes based on the book *Linux Basics for Hackers* by 
 
 > **Update:** Visual architecture diagrams have been added across core modules to illustrate topics like the filesystem tree, command pipelines, permissions, and kernel space.
 
+> **Languages:** [English](README.md) · [简体中文 (zh_CN)](README.zh_CN.md)
+
 ---
 
 ## Modules
