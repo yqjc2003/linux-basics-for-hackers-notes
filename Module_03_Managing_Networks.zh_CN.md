@@ -204,4 +204,4 @@ DNS(域名系统,Domain Name System)是互联网的地址簿。当你在浏览�
 > 提示:*如需更深入的练习,建议同步完成官方 **Linux Basics for Hackers** 一书中各章末尾的练习题。*
 ---
 
-*下一章:模块 4 - 软件管理*
+[下一章:模块 4 - 软件管理](Module_04_Software_Management.zh_CN.md)

@@ -216,4 +216,4 @@ Only do the airodump-ng practice on your own home network. Capturing traffic fro
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 15 - Managing the Linux Kernel & Loadable Kernel Modules*
+[Up next: Module 15 - Managing the Linux Kernel & Loadable Kernel Modules](Module_15_Kernel_LKMs.md)

@@ -240,4 +240,4 @@ ahegazy0@kali:~$ cd DESKTOP     错误 - 文件不存在
 > 提示:*如需更深入的练习,建议同步完成官方 **Linux Basics for Hackers** 一书中各章末尾的练习题。*
 ---
 
-*下一章:模块 2 - 文本处理*
+[下一章:模块 2 - 文本处理](Module_02_Text_Manipulation.zh_CN.md)

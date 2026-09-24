@@ -202,4 +202,4 @@ These are not real files on disk. They're generated on the fly by the kernel eve
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 16 - Automation & Scheduled Jobs*
+[Up next: Module 16 - Automation & Scheduled Jobs](Module_16_Automation_Jobs.md)

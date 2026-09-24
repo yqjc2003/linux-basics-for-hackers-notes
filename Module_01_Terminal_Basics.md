@@ -237,4 +237,4 @@ The goal isn't to memorize all of this right now. It's to get your hands moving 
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 2 - Text Manipulation*
+[Up next: Module 2 - Text Manipulation](Module_02_Text_Manipulation.md)

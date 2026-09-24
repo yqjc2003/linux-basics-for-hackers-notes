@@ -231,4 +231,4 @@ Because `dd` copies at the block level, it captures everything: files, deleted f
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 10 - Filesystem & Storage Devices*
+[Up next: Module 10 - Filesystem & Storage Devices](Module_10_Filesystem_Storage.md)

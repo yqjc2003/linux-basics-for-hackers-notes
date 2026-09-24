@@ -248,4 +248,4 @@ Kali Linux 为多个服务设置了默认密码。默认情况下,许多路由�
 > 💡 *如需进行更深入的练习,我推荐同时完成官方 **Linux Basics for Hackers** 一书中本章末尾的习题。*
 ---
 
-*下一篇:Module 13 - 安全与匿名(Security & Anonymity)*
+[下一篇:Module 13 - 安全与匿名(Security & Anonymity)](Module_13_Security_Anonymity.zh_CN.md)

@@ -244,4 +244,4 @@ The cron syntax takes a few tries to get comfortable with. Writing a few differe
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 17 - Python Scripting*
+[Up next: Module 17 - Python Scripting](Module_17_Python_Scripting.md)

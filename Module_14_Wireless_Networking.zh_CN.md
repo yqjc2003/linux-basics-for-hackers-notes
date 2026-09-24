@@ -218,4 +218,4 @@ ahegazy0@kali:~$ hcitool lescan
 > 💡 *如需进行更深入的练习,我推荐同时完成官方 **Linux Basics for Hackers** 一书中本章末尾的习题。*
 ---
 
-*下一篇:Module 15 - 管理 Linux 内核与可加载内核模块(Managing the Linux Kernel & Loadable Kernel Modules)*
+[下一篇:Module 15 - 管理 Linux 内核与可加载内核模块(Managing the Linux Kernel & Loadable Kernel Modules)](Module_15_Kernel_LKMs.zh_CN.md)

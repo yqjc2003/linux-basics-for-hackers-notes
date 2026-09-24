@@ -247,4 +247,4 @@ cron 语法需要几次练习才能熟练。从头编写几个不同的计划是
 > 💡 *如需更深入的练习,我还建议完成官方《Linux Basics for Hackers》一书中每章末尾的习题。*
 ---
 
-*下一章:第 17 章 - Python 脚本编写*
+[下一章:第 17 章 - Python 脚本编写](Module_17_Python_Scripting.md)

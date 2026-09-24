@@ -232,4 +232,4 @@ ahegazy0@kali:~$ pidof firefox
 > 💡 *想要更深入的练习,我还建议完成官方 **Linux Basics for Hackers** 一书中各章节末尾的练习题。*
 ---
 
-*下一篇:第 7 模块 - 管理用户环境变量*
+[下一篇:第 7 模块 - 管理用户环境变量](Module_07_Environment_Variables.zh_CN.md)

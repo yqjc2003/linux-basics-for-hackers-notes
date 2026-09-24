@@ -245,4 +245,4 @@ Much easier to read at a glance than raw fdisk output.
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 11 - Logging & Log Files*
+[Up next: Module 11 - Logging & Log Files](Module_11_Logging_System.md)

@@ -170,4 +170,4 @@ Anonymity is a practice, not just a tool you install.
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 14 - Wireless Networking*
+[Up next: Module 14 - Wireless Networking](Module_14_Wireless_Networking.md)

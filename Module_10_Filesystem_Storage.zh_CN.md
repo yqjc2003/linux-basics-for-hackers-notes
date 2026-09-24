@@ -247,4 +247,4 @@ sdb    8:16      16G  disk
 > 💡 *想要更深入的练习,我还建议完成官方书籍 **Linux Basics for Hackers** 中本章末尾的习题。*
 ---
 
-*下一篇:Module 11 - 日志与日志文件(Logging & Log Files)*
+[下一篇:Module 11 - 日志与日志文件(Logging & Log Files)](Module_11_Logging_System.zh_CN.md)

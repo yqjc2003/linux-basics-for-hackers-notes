@@ -215,4 +215,4 @@ ahegazy0@kali:~$ cat access.log | grep "failed" | tail -n 20
 > 提示:*如需更深入的练习,建议同步完成官方 **Linux Basics for Hackers** 一书中各章末尾的练习题。*
 ---
 
-*下一章:模块 3 - 网络管理*
+[下一章:模块 3 - 网络管理](Module_03_Managing_Networks.zh_CN.md)

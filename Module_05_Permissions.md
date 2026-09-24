@@ -214,4 +214,4 @@ Permission misconfigurations are one of the most common vectors - SUID binaries 
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 6 - Process Management*
+[Up next: Module 6 - Process Management](Module_06_Process_Management.md)

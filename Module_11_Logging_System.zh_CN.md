@@ -213,4 +213,4 @@ ahegazy0@kali:~$ grep "192.168.1.100" /var/log/auth.log
 > 💡 *想要更深入的练习,我还建议完成官方书籍 **Linux Basics for Hackers** 中本章末尾的习题。*
 ---
 
-*下一篇:Module 12 - 使用与滥用服务(Using & Abusing Services)*
+[下一篇:Module 12 - 使用与滥用服务(Using & Abusing Services)](Module_12_Using_Abusing_Services.zh_CN.md)

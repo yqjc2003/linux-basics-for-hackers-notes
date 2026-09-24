@@ -117,4 +117,4 @@ You'll know it worked when you hit the Kali login screen with the dragon logo.
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 1 - The Basics of the Terminal*
+[Up next: Module 1 - The Basics of the Terminal](Module_01_Terminal_Basics.md)

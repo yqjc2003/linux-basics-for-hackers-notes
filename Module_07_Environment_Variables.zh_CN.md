@@ -169,4 +169,4 @@ ahegazy0@kali:~$ export HISTSIZE=0
 > 💡 *想要更深入的练习,我还建议完成官方 **Linux Basics for Hackers** 一书中各章节末尾的练习题。*
 ---
 
-*下一篇:第 8 模块 - Bash 脚本编写*
+[下一篇:第 8 模块 - Bash 脚本编写](Module_08_Bash_Scripting.zh_CN.md)

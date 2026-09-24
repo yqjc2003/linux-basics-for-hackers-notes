@@ -162,4 +162,4 @@ ahegazy0@kali:~$ cat /etc/apt/sources.list
 > 💡 *想要更深入的练习,我还建议完成官方 **Linux Basics for Hackers** 一书中各章节末尾的练习题。*
 ---
 
-*下一篇:第 5 模块 - 控制文件和目录权限*
+[下一篇:第 5 模块 - 控制文件和目录权限](Module_05_Permissions.zh_CN.md)

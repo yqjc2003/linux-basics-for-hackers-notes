@@ -233,4 +233,4 @@ ahegazy0@kali:~$ dd if=/dev/sda of=disk_image.img status=progress
 > 💡 *想要更深入的练习,我还建议完成官方书籍 **Linux Basics for Hackers** 中本章末尾的习题。*
 ---
 
-*下一篇:Module 10 - 文件系统与存储设备(Filesystem & Storage Devices)*
+[下一篇:Module 10 - 文件系统与存储设备(Filesystem & Storage Devices)](Module_10_Filesystem_Storage.zh_CN.md)

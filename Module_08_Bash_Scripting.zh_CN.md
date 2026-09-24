@@ -276,4 +276,4 @@ ping 循环的练习值得认真做。它是一项真实的技术,弄懂它的�
 > 💡 *想要更深入的练习,我还建议完成官方书籍 **Linux Basics for Hackers** 中本章末尾的习题。*
 ---
 
-*下一篇:Module 9 - 归档与压缩(Archiving & Compression)*
+[下一篇:Module 9 - 归档与压缩(Archiving & Compression)](Module_09_Archiving_Compression.zh_CN.md)

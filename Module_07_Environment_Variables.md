@@ -166,4 +166,4 @@ This is a basic operational security move. If you're on a system you're not supp
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 8 - Bash Scripting*
+[Up next: Module 8 - Bash Scripting](Module_08_Bash_Scripting.md)

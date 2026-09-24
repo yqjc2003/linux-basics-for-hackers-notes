@@ -211,4 +211,4 @@ If you're securing a system rather than attacking one:
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 12 - Using & Abusing Services*
+[Up next: Module 12 - Using & Abusing Services](Module_12_Using_Abusing_Services.md)

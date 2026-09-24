@@ -246,4 +246,4 @@ Memorizing these is worth doing. When nmap returns a list of open ports, knowing
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 13 - Becoming Secure & Anonymous*
+[Up next: Module 13 - Becoming Secure & Anonymous](Module_13_Security_Anonymity.md)

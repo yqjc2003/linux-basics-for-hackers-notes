@@ -216,4 +216,4 @@ ahegazy0@kali:~$ find / -perm -u=s -type f 2>/dev/null
 > 💡 *想要更深入的练习,我还建议完成官方 **Linux Basics for Hackers** 一书中各章节末尾的练习题。*
 ---
 
-*下一篇:第 6 模块 - 进程管理*
+[下一篇:第 6 模块 - 进程管理](Module_06_Process_Management.zh_CN.md)

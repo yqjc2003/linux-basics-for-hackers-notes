@@ -228,4 +228,4 @@ The kill-a-background-process flow is the one to get comfortable with. Run somet
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 7 - Managing User Environment Variables*
+[Up next: Module 7 - Managing User Environment Variables](Module_07_Environment_Variables.md)

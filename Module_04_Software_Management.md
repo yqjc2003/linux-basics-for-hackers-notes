@@ -160,4 +160,4 @@ Sometimes you'll find instructions online telling you to add a line to this file
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 5 - Controlling File and Directory Permissions*
+[Up next: Module 5 - Controlling File and Directory Permissions](Module_05_Permissions.md)

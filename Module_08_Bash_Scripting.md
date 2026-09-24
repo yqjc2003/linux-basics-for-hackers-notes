@@ -274,4 +274,4 @@ The ping loop exercise is worth doing properly. It's a real technique and unders
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 9 - Archiving & Compression*
+[Up next: Module 9 - Archiving & Compression](Module_09_Archiving_Compression.md)

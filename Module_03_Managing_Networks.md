@@ -202,4 +202,4 @@ For now, knowing how to use `dig` to read DNS records is enough.
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 4 - Software Management*
+[Up next: Module 4 - Software Management](Module_04_Software_Management.md)

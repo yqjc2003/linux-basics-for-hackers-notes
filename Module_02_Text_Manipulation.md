@@ -213,4 +213,4 @@ That reads the log, filters for "failed", then shows only the last 20 of those f
 > 💡 *For deeper practice, I also recommend completing the end-of-chapter exercises in the official **Linux Basics for Hackers** book.*
 ---
 
-*Up next: Module 3 - Managing Networks*
+[Up next: Module 3 - Managing Networks](Module_03_Managing_Networks.md)
